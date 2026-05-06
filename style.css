@@ -1,1 +1,8 @@
-
+body {
+  /*background-image: url("images/header.png");*/
+  background-image: linear-gradient(red, pink, white);
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  margin: 0;
+  background-color: black;
+}
